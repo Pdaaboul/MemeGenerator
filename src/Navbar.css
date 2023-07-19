@@ -1,0 +1,11 @@
+.NavDiv {
+  display: flex;
+  background-color: #c8a2c8;
+}
+.troll {
+  width: 100px;
+  height: 80px;
+}
+.headerNav {
+  color: white;
+}
